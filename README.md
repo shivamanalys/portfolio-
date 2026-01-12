@@ -1,75 +1,52 @@
-# 📊 Data Analyst Portfolio – Shivam Mishra
+#📊 Data Analyst Portfolio – Shivam Mishra
 
-Welcome to my data analytics portfolio.  
-I focus on transforming raw data into **clear insights** using Excel, SQL, and Python, with a strong interest in **business, finance, and data-driven decision making**.
-
----
-
-## 👤 About Me
-
-I am an **aspiring Data Analyst** with a strong foundation in data analytics and data science fundamentals.  
-I enjoy cleaning data, analyzing trends, and building dashboards that help stakeholders understand performance and make better decisions.
-
-My long-term goal is to work in roles where **data meets business and finance**, such as Data Analyst, Business Analyst, or Financial Analyst.
+Welcome to my data analyst portfolio!  
+I am a second-year undergraduate student actively building skills in data analytics, focused on turning raw data into meaningful insights using Excel, SQL, and Python.
 
 ---
 
-## 🧠 Core Skills
+👤 Profile Summary
 
-**Data Analysis & Visualization**
-- Excel (analysis, dashboards, formulas)
-- Data visualization principles
-- KPI analysis & reporting
-
-**Programming & Querying**
-- SQL (data extraction, aggregation, analysis)
-- Python (Pandas, NumPy – practice level)
-
-**Analytics Foundations**
-- Data cleaning & exploratory analysis  
-- Statistics & probability (basics)  
-- Business & financial data understanding  
+- Second-year undergraduate student preparing for a **Data Analyst role**  
+- Hands-on practice in **data cleaning, transformation, and exploratory analysis** using Python (Pandas, NumPy) and SQL  
+- Experience creating **basic to intermediate dashboards** using Excel and Power BI for data-driven insights  
+- Strong interest in business, finance, and analytical problem-solving  
+- Continuous learner with a practical, project-based approach  
 
 ---
 
-## 📊 Featured Project – Excel Dashboard
+🧠 Skills
+
+**Languages & Querying:**  
+Python (Pandas, NumPy – learning & practice level), SQL  
+
+**Tools & Visualization:**  
+Excel (analysis, formulas, dashboards), Power BI (learning), Google Sheets, Jupyter Notebook  
+
+**Analytics Foundations:**  
+Data cleaning, exploratory data analysis, basic statistics  
+
+---
+
+📊 Featured Project – Excel Dashboard
 
 ### 📈 Interactive Sales & Business Dashboard (Excel)
 
-Built an interactive Excel dashboard to analyze sales performance and key business metrics from structured datasets.
+Created an interactive Excel dashboard to analyze business performance and key metrics using sample datasets.
 
-**What I Did:**
 - Cleaned and structured raw data using Excel formulas  
-- Created dynamic dashboards using **Pivot Tables, Charts, and Slicers**  
-- Analyzed monthly trends, category-wise performance, and regional insights  
-- Designed KPI cards for quick and effective decision-making  
+- Built dashboards using **Pivot Tables, Charts, and Slicers**  
+- Analyzed monthly trends and category-wise performance  
+- Designed KPI cards for clear and quick insights  
 
 **Tools Used:**  
 Excel | Pivot Tables | Charts | Slicers | Conditional Formatting  
 
 ---
 
-### 🧮 Sample Excel Formulas Used
+🧮 Sample Excel Formulas Used
 
 ```excel
 =IFERROR(SUMIFS(Sales!E:E, Sales!A:A, $A2, Sales!C:C, $B$1), 0)
----
-
-## ✅ Ab kya karo (simple)
-1. **Copy** poora content  
-2. **Paste** → GitHub portfolio repo / README / website  
-3. Save / Commit  
-
-🎉 **Done. Professional portfolio ready.**
-
----
-
-### 🔥 Next (jab bolega tab)
-Main bana dunga:
-- SQL project (copy-paste)
-- Python project (copy-paste)
-- Power BI dashboard section
-- Resume bhi isi content se
-
-Bas likh dena 👇  
-👉 **“Next project add karo”**
+=IF(D2>=Target!B2,"Above Target","Below Target")
+=VLOOKUP(A2,Master!A:E,5,FALSE)
