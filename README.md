@@ -1,52 +1,87 @@
-#📊 Data Analyst Portfolio – Shivam Mishra
+## 📊 Data Analyst Portfolio – Shivam Mishra
 
-Welcome to my data analyst portfolio!  
-I am a second-year undergraduate student actively building skills in data analytics, focused on turning raw data into meaningful insights using Excel, SQL, and Python.
-
----
-
-👤 Profile Summary
-
-- Second-year undergraduate student preparing for a **Data Analyst role**  
-- Hands-on practice in **data cleaning, transformation, and exploratory analysis** using Python (Pandas, NumPy) and SQL  
-- Experience creating **basic to intermediate dashboards** using Excel and Power BI for data-driven insights  
-- Strong interest in business, finance, and analytical problem-solving  
-- Continuous learner with a practical, project-based approach  
+Welcome to my data analytics portfolio!  
+I focus on transforming raw data into meaningful insights using **Excel, SQL, Python**, and modern data visualization techniques.  
+My goal is to build data-driven solutions that support **business, financial, and analytical decision-making**.
 
 ---
 
-🧠 Skills
+## 👤 Profile Summary
 
-**Languages & Querying:**  
-Python (Pandas, NumPy – learning & practice level), SQL  
-
-**Tools & Visualization:**  
-Excel (analysis, formulas, dashboards), Power BI (learning), Google Sheets, Jupyter Notebook  
-
-**Analytics Foundations:**  
-Data cleaning, exploratory data analysis, basic statistics  
+- Aspiring **Data Analyst** with a strong foundation in data analytics and data science fundamentals  
+- Experience in **data cleaning, transformation, and exploratory analysis** using Python (Pandas) and SQL  
+- Comfortable working with datasets to identify trends, patterns, and insights  
+- Interested in **Business Analytics, Financial Analysis, and Data Science (foundational level)**  
+- Strong analytical mindset with continuous learning approach  
 
 ---
 
-📊 Featured Project – Excel Dashboard
+## 🧠 Core Skills
 
-### 📈 Interactive Sales & Business Dashboard (Excel)
+**Languages & Querying**  
+- Python (Pandas, NumPy – learning & practice level)  
+- SQL (data extraction & analysis)  
 
-Created an interactive Excel dashboard to analyze business performance and key metrics using sample datasets.
+**Data Analysis & Visualization**  
+- Excel (analysis, formulas, dashboards)  
+- Power BI (learning)  
+- Data visualization principles  
 
-- Cleaned and structured raw data using Excel formulas  
-- Built dashboards using **Pivot Tables, Charts, and Slicers**  
-- Analyzed monthly trends and category-wise performance  
-- Designed KPI cards for clear and quick insights  
-
-**Tools Used:**  
-Excel | Pivot Tables | Charts | Slicers | Conditional Formatting  
+**Analytics Foundations**  
+- Statistics & probability (basics)  
+- Data cleaning & exploratory data analysis  
+- Business & financial data understanding  
 
 ---
 
-🧮 Sample Excel Formulas Used
+## 🔭 Projects (In Progress)
 
-```excel
-=IFERROR(SUMIFS(Sales!E:E, Sales!A:A, $A2, Sales!C:C, $B$1), 0)
-=IF(D2>=Target!B2,"Above Target","Below Target")
-=VLOOKUP(A2,Master!A:E,5,FALSE)
+### 🔍 Sales & Business Data Analysis *(Practice Project)*  
+- Cleaned and analyzed sample business datasets using **Excel and Python**  
+- Identified key trends, KPIs, and performance indicators  
+- Focused on turning raw data into clear insights  
+
+### 📊 SQL Data Exploration Project *(Planned)*  
+- Writing SQL queries to analyze structured datasets  
+- Performing filtering, aggregation, and trend analysis  
+
+*(More projects will be added as I continue building hands-on experience.)*
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Excel for data analysis  
+- SQL for analytics and reporting  
+- Python for data analysis  
+- Basics of data science & predictive thinking  
+- Dashboard design and storytelling with data  
+
+---
+
+## 🧭 Areas of Interest
+
+- Data Analyst  
+- Business Analyst  
+- Financial Analyst  
+- Business Intelligence & Reporting  
+- Data Science (foundation level)  
+
+---
+
+## 🎓 Education
+
+- Undergraduate studies (ongoing)  
+- Strong focus on analytics, statistics, and practical skill development  
+
+---
+
+## 📬 Let’s Connect
+
+- 📧 Email: **shivamprogram@gmail.com**  
+- 🔗 LinkedIn: https://www.linkedin.com/in/shivam-mishra-523290344  
+- 📸 Instagram: https://www.instagram.com/shivam_00000_00000  
+
+---
+
+⭐ *This portfolio will evolve as I build real-world projects, dashboards, and analytical solutions.*
